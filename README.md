@@ -1,2 +1,4 @@
 # A Compilation of previous year IEEEXtreme Problems and their solutions.
-The practice questions are listed here and the program codes are included in the numerical order.
+The practice questions and solutions are provided in the respective folders. Sample input and output are also included.
+
+
